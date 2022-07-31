@@ -14,7 +14,7 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 app.use(logger('dev'))
 app.use(cookieParser())
-app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
+app.use
 
 const PORT = process.env.PORT || 8080;
 
@@ -37,7 +37,7 @@ const PORT = process.env.PORT || 8080;
    .catch(err => {
      console.error(err)
      console.error(
-       'Shutting down because there was an error settinig up the database.'
+       'Shutting down because there was an error setting up the database.'
      )
      process.exit(1)
    })
