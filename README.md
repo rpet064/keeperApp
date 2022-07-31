@@ -3,7 +3,7 @@ Got brilliant ideas that you NEED to write down?
 Forgetting to do essential tasks during the day?
 Look no further! 
 This Stylish, Bee-themed Full-Stack Note Taking app
-Can solve all of your worries.
+can solve all of your worries.
 
 # Getting Started
 1. Fork and download project
