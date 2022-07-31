@@ -1,10 +1,21 @@
 # About
-Front end design & functionality for a note-taking app.
-App is powered by React and JavaScript 
+Got brilliant ideas that you NEED to write down? 
+Forgetting to do essential tasks during the day?
+Look no further! 
+This Stylish, Bee-themed Full-Stack Note Taking app
+Can solve all of your worries.
 
 # Getting Started
-1. Download/Fork Project
-2. In the terminal -  npm install @material-ui/core --legacy-peer-deps
-3. In the terminal -npm install @material-ui/icons
-4. In the terminal - cd client
-5. In the terminal - nodemon
+1. Fork and download project
+2. cd inside root directory 
+3. Npm install
+4. Node sever.js
+5. cd client
+6. Nodemon
+
+# Technologies 
+Front-End: React & Material-UI
+Back-End: Nodejs, Azure Cosmos
+Deployed with Azure Web Service
+
+
